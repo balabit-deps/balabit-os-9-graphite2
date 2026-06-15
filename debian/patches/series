@@ -5,3 +5,4 @@ no-icons.diff
 test-timeout.diff
 reproducible-build.diff
 python-libgraphite-SONAME.diff
+CVE-2026-50593.patch
